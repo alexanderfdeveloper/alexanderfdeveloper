@@ -30,4 +30,4 @@
 
 ---
 
-✨ Se você não consegue entrar em contato comigo nas minhas redes sociais, provavelmente é porque estou ocupado construindo [UI Components](https://github.com/alexanderiscoding/ui/wiki).
+✨ Se você não consegue entrar em contato comigo nas minhas redes sociais, provavelmente é porque estou ocupado evoluindo o Nova Design System.

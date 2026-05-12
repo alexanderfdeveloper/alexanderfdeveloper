@@ -17,14 +17,13 @@
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,nextjs,mysql,firebase,github,docker,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,mysql,sqlite,firebase,vite,npm,cloudflare,figma,vscode,obsidian,windows,apple" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexanderfdeveloper&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexanderfdeveloper&theme=tokyonight" height="150"/>
 </p>
 
